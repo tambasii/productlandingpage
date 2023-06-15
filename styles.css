@@ -1,0 +1,6 @@
+/* Set all elements margin and padding to zero */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
